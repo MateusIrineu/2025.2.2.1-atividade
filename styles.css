@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Sans+Syriac:wght@100..900&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Sans+Syriac:wght@100..900&family=Oswald:wght@200..700&family=Stack+Sans+Notch:wght@200..700&display=swap');
+
+* {
+    text-align: center;
+    color: red
+}
+
+body {
+    background-color: black;
+    background-image: url(https://elements-resized.envatousercontent.com/elements-video-cover-images/files/6acee33f-30c0-44c5-b704-bf2eec8463ca/inline_image_preview.jpg?w=500&cf_fit=cover&q=85&format=auto&s=08458d38b1c97941e262fd5f24baa96f0bffff405de3be837b41b96a9d7eb699);
+    background-position: center;
+    background-size: auto;
+    background-repeat: repeat;
+    /* background-image: linear-gradient(to right, red, red, black);
+    background-image: linear-gradient(to left, red, red, black); */
+    /* background-image: (red, black); */
+}
+
+.header-principal { 
+    background-color: rgb(185, 23, 23);
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 1px 1px 100px red;
+    font-size: 20px;
+    line-height: normal;
+    font-family: "Stack Sans Notch", sans-serif;
+    
+}
+
+
+h1 {
+    color: red;
+    font-weight: bold;
+    
+    
+}
+
+.subtitulo {
+    color: #da6666;
+    font-family: "Oswald", sans-serif;
+    font-style: italic;
+}
+
+h2 {
+    color: hsl(0, 100%, 50%);
+}
